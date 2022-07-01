@@ -1,0 +1,102 @@
+/* .tag {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.des:hover {
+    border-bottom: 3px solid red;
+}
+
+.book {
+    display: flex;
+    justify-content: center;
+}
+
+.touch {
+    width: 100px;
+    height: 40px;
+    background-color: green;
+    border-style: none;
+    transition: 1s;
+    color: white;
+}
+
+.touch:hover {
+    border-radius: 10px;
+    border-style: none;
+    transition: 2s;
+    background-color: rgb(170, 231, 29);
+} */
+
+.team h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: pink;
+}
+
+.card {
+    width: 100%;
+    height: 100vh;
+}
+
+.room {
+    display: flex;
+    justify-content: center;
+}
+
+.flip {
+    width: 20%;
+    border-radius: 7px;
+    border: 3px solid pink;
+    margin: 10px;
+    background-color: rgb(119, 118, 118);
+}
+
+.image-1 img {
+    width: 263px;
+    background-size: cover;
+    border-radius: 6px;
+    height: 220px;
+}
+
+.image-2 img {
+    width: 263px;
+    background-size: cover;
+    border-radius: 6px;
+    height: 220px;
+}
+
+.image-3 img {
+    width: 263px;
+    background-size: cover;
+    border-radius: 6px;
+    height: 220px;
+}
+
+.image-4 img {
+    width: 263px;
+    background-size: cover;
+    border-radius: 6px;
+    height: 220px;
+}
+
+.name,
+.sex,
+.track,
+.food {
+    text-align: center;
+    color: white;
+}
+
+.text h2 {
+    font-size: 27px;
+    color: white;
+    margin-top: 11px;
+}
+
+.text p {
+    font-size: 15px;
+    color: white;
+}
